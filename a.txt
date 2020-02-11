@@ -1,3 +1,1 @@
-learning git start editing file
-
-edit file to see gdiff command 
+learning git start editing file 
