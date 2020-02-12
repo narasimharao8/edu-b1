@@ -1,3 +1,4 @@
+git stash concept
 learning git start editing file
 
 edit file to see gdiff command
